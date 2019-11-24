@@ -1,0 +1,10 @@
+ENA_REGISTER_MODE="falling edge"
+INTENDED_DEVICE_FAMILY="Cyclone IV E"
+USE_GLITCH_FREE_SWITCH_OVER_IMPLEMENTATION=OFF
+clock_type="Global Clock"
+DEVICE_FAMILY="Cyclone IV E"
+clkselect
+ena
+inclk
+inclk
+outclk
